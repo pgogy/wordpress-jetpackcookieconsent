@@ -1,0 +1,27 @@
+.widget_cookie_free_twitter_widget ul.widget_cookie_free_twitter_widget_list li{
+	margin:0px 10px;
+	font-size:15px;
+}
+
+.widget_cookie_free_twitter_widget ul.widget_cookie_free_twitter_widget_list .widget_cookie_free_twitter_widget_list_text{
+	padding-top:10px;	
+}
+
+.widget_cookie_free_twitter_widget ul.widget_cookie_free_twitter_widget_list li a img{ 
+	display:inline-block;
+	border-radius:40px;
+	width:20%;
+	vertical-align:top;
+}
+
+.widget_cookie_free_twitter_widget ul.widget_cookie_free_twitter_widget_list li a ul{ 
+	display:inline-block;
+	width:80%;
+	vertical-align:top;
+}
+
+.widget_cookie_free_twitter_widget ul.widget_cookie_free_twitter_widget_list li a ul li{
+	padding:0px;
+	margin:0px;
+	padding-left:10px;
+} 
